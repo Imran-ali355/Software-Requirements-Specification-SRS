@@ -32,3 +32,5 @@ This repository serves as a centralized hub for the **Software Requirements Spec
 ## 🛠️ Tools & Technologies Used
 * **Documentation & Analysis:** MS Word / Google Docs / Adobe Acrobat
 * **Requirement Tracking:** GitHub / Markdown / SQA Traceability Matrix
+* SRS_Solution_Document.pdf ➔ 📤 Uploaded
+* SRS_Highlighted_Review.pdf ➔ 📤 Uploaded
